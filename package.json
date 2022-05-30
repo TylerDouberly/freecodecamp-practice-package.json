@@ -2,7 +2,15 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Tyler Douberly",
 	"description": "A project to demonstrate dack end development",
-  "keywords": [ "freecodecamp", "github", "replit" ],
+	"keywords": [
+		"freecodecamp",
+		"github",
+		"replit"
+	],
+	"license": [
+		"MIT",
+		"For practice only"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
