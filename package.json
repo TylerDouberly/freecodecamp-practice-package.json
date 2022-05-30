@@ -11,6 +11,7 @@
 		"MIT",
 		"For practice only"
 	],
+  "version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
