@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-  "author": "Tyler Douberly",
+	"author": "Tyler Douberly",
+  "description": "A project to demonstrate dack end development",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
